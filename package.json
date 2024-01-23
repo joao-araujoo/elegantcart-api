@@ -1,11 +1,8 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Login and Cart content API for ÉlégantCart Application",
   "main": "index.js",
-  "engines": {
-    "node": "18.x"
-  },
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
